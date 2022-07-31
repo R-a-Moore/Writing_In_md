@@ -12,11 +12,11 @@ Plugins are additional peieces of software which allow you perform additional ta
 
 To get new plugins and manage your current ones click 'File' > 'Settings'...
 
-![pycharm settings]()
+![pycharm settings](https://user-images.githubusercontent.com/47668244/182036604-c2c5224e-d052-45df-9df0-5f7678b0e9bd.png)
 
 then go into 'plugins'
 
-![pycharm plugins]()
+![pycharm plugins](https://user-images.githubusercontent.com/47668244/182036587-ca87dab9-ab0b-4343-809a-812e715c52af.png)
 
 The plugins you will need in order to work on .md files in pycharm are;
 
@@ -42,6 +42,6 @@ There are a number of techniques you can use to alter your text in the README.md
 
 So in all, your pycharm README.md should look like this:
 
-![README.md in pycharm example]()
+![README.md in pycharm example](https://user-images.githubusercontent.com/47668244/182036574-f5442a78-f245-4d06-a29d-5729dd2b6aaa.png)
 
 ready to be pushed up into your repo. Enjoy!
